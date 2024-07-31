@@ -15,9 +15,9 @@ app.set('views', path.join(__dirname, 'views'));
 
 // Database configuration
 const config = {
-    user: 'azureuser',
+    user: 'Cloud_classactivity3',
     password: 'P@ssw0rdssss',
-    server: 'wk10309.database.windows.net,',
+    server: 'cloudclassactivity3.database.windows.net,',
     database: 'wk10',
     options: {
         encrypt: true,
