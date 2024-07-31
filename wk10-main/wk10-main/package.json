@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "App made by Shubhika Sachdeva",
   "dependencies": {
     "body-parser": "^1.20.2",
     "ejs": "^3.1.10",
